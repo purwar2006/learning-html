@@ -1,0 +1,25 @@
+/*body{
+    background-color : navy ;
+
+}*/
+.heading1{
+    background-color:aqua;
+    color: black;
+    font-size:60px;
+     font-style: italic;
+     text-decoration-color:beige
+    text-decoration:underline ;
+    text-decoration-style : dashed;
+}
+.head2{
+    background-color: rgb(172, 198, 198);
+        color: rgb(30, 130, 105);
+        font-size: 50px;
+        /*text-decoration: underline;*/
+        text-decoration-color: black;
+        word-spacing:40px;
+        letter-spacing:60px;
+        text-shadow: -12px 4px 6px rgb(30, 130, 105);
+
+
+}
