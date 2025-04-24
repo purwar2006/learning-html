@@ -1,0 +1,24 @@
+.container{
+    background-color: antiquewhite;
+    background-position: bottom;
+    color: brown;
+   /* padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;*/
+    padding: 20px;
+    border-radius: 40px;
+    
+}
+.button{
+    background-color: blue;
+}
+.container1{
+    background-color: rgb(171, 30, 96);
+        background-position: bottom;
+        color: rgb(117, 160, 207);
+        padding: 30px;
+        margin-top: 40px;
+        border:  19px double black;
+}
+
