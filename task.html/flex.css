@@ -1,0 +1,10 @@
+.parent{
+    display: flex;
+    justify-content:space-around;
+}
+.main{
+    background-color: black;
+    border:2px solid brown;
+    height:300px;
+    width:300px;
+}

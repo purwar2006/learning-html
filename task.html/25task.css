@@ -1,0 +1,18 @@
+.parent{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+    height: 500px;;
+}
+.head{
+    font-style: cursive;
+    color: white;
+    margin-top: 70px;
+}
+.head3{
+    color: brown;
+}
+.image{
+    margin-top: 70px;
+}
+
