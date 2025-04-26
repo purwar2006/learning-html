@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+}
+body{
+    margin:0%;
+}
+.NAVBAR{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: solid 2px grey;
+    border-radius: 10px;
+}
+.NAVBAR ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.NAVBAR li{
+    background-color: bisque;
+    color:blue;
+    padding: 5px;
+    border-radius: 6px;
+}

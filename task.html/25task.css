@@ -2,7 +2,8 @@
     background-color: cadetblue;
     display: flex;
     justify-content: space-around;
-    height: 500px;;
+    height: 300px;;
+    align-items: center;
 }
 .head{
     font-style: cursive;
@@ -13,6 +14,6 @@
     color: brown;
 }
 .image{
-    margin-top: 70px;
+    margin-down: 70px;
 }
 
