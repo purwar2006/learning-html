@@ -1,0 +1,8 @@
+html{
+    scroll-behavior:initial;
+}
+.head{
+    color: antiquewhite;
+    background-color: azure;
+    padding-top: 20px;
+}
