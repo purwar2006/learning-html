@@ -1,0 +1,18 @@
+.head{
+    font-family: "Tagesschrift", system-ui;
+}
+.head1{
+      font-family: "Inter", sans-serif;
+}
+.wrapper{
+    background-color: yellow;
+    height: 400px;
+}
+.ch1{
+    height:200px;
+    width: 200px;
+    background-color: brown;
+    position: relative;
+    top: 100px;
+    
+}

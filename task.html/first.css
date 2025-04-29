@@ -1,0 +1,31 @@
+* {
+    margin: 0%;
+}
+
+body {
+    margin: 0%;
+}
+
+.NAVBAR {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: solid 2px rgb(194, 188, 12);
+    border-radius: 1px;
+    padding: 15PX;
+    
+}
+
+.NAVBAR ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+.NAVBAR li {
+    background-color: bisque;
+    color: blue;
+    padding: 5px;
+    border-radius: 6px;
+}
