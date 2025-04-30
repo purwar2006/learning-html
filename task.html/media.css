@@ -1,0 +1,17 @@
+/*@media screen and (max-width:400px) {
+    body{
+        background-color: brown;
+    }
+    
+}
+@media screen and (min-width:600px) {
+    body {
+        background-color: rgb(76, 24, 111);
+    }
+
+}*/
+@media screen and (min-width:300px) and (max-width:600px) {
+    body {
+        background-color: rgb(76, 24, 111);
+    }
+

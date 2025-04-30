@@ -14,6 +14,8 @@ body {
     border: solid 2px rgb(194, 188, 12);
     border-radius: 1px;
     padding: 15PX;
+    position: sticky;
+    top: 0;
     
 }
 

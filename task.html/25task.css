@@ -4,6 +4,7 @@
     justify-content: space-around;
     height: 300px;;
     align-items: center;
+    flex-wrap: wrap;
 }
 .head{
     font-style: cursive;
