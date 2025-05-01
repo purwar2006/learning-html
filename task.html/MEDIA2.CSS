@@ -1,0 +1,24 @@
+h1{
+    font-size: 60px;
+    color: blue;
+}
+button{
+    padding :20px;
+}
+@media  screen and (max-width:500px) {
+    body{
+        background-color: azure;
+    }
+    H1{
+        font-size: 30px;
+        color: blueviolet;
+    }
+    img{
+        width:20px;
+        height:20px;
+    }
+    button{
+        width:10px;
+    }
+    
+}
