@@ -1,0 +1,50 @@
+.task {
+    height: 100vh;
+    display: grid;
+    /*grid-template-columns: 100px 200px 300px auto;*/
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(3, auto);
+}
+
+.task div {
+    background-color: blue;
+    border: 2px solid red;
+}
+.ch1{
+    grid-column-start:1 ;
+    grid-column-end:4 ;
+    grid-row-start:1 ;
+    grid-row-end:1 ;
+}
+.ch2 {
+    grid-column-start: ;
+    grid-column-end: ;
+    grid-row-start:2 ;
+    grid-row-end:4 ;
+}
+.ch3 {
+    grid-column-start: ;
+    grid-column-end: ;
+    grid-row-start: ;
+    grid-row-end: ;
+}
+
+.ch4 {
+    grid-column-start: ;
+    grid-column-end: ;
+    grid-row-start: ;
+    grid-row-end: ;
+}
+.ch5 {
+    grid-column-start:5 ;
+    grid-column-end:-2 ;
+    grid-row-start: ;
+    grid-row-end: ;
+}
+
+.ch6 {
+    grid-column-start:-4 ;
+    grid-column-end: -1;
+    grid-row-start: ;
+    grid-row-end: ;
+}
